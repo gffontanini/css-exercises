@@ -1,0 +1,19 @@
+.alert2,
+.alert {
+    color: black;
+    background-color: #c1121f;
+    font-family: Verdana, DejaVu Sans, Sans-serif
+}
+#title {
+    color: #669bbc;
+    font-size: 36px;
+}
+.alert2 {
+    font-size: 24px;
+}
+#another-title {
+    background-color: #a3b18a;
+    color: black;
+    font-size: 24px;
+    font-weight: bold;
+}
